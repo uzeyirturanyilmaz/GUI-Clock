@@ -1,0 +1,7 @@
+kaynaklar 
+https://www.geeksforgeeks.org/iconphoto-method-in-tkinter-python/ ikon
+https://www.geeksforgeeks.org/how-to-set-font-for-text-in-tkinter/ font
+https://www.youtube.com/watch?v=ycn7lFXfhqE&t=198s saat font
+https://stackoverflow.com/questions/29211794/how-to-bind-a-click-event-to-a-canvas-in-tkinter ekrana tıklama kontrolü
+https://stackoverflow.com/questions/25753632/tkinter-how-to-use-after-method after işlemi (saati anlık gösterme)
+ChatGPT sözler
